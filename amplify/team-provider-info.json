@@ -17,6 +17,9 @@
           "appId": "dynuqxjhm9oiq",
           "type": "cicd"
         }
+      },
+      "api": {
+        "testingfolder": {}
       }
     }
   }
